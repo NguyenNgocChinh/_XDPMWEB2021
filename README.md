@@ -1,4 +1,15 @@
 # BÁO CÁO MÔN HỌC XÂY DỰNG PHẦN MỀM WEB
+
+## Thành Viên Nhóm:
+
+| Tên Thành Viên | MSSV  | Lớp  |
+| :-----: | :-: | :-: |
+| Nguyễn Ngọc Chinh | DH51703173 | D17_TH07 |
+| Nguyễn Văn Mạnh | DH51703733 | D17_TH07 |
+| Phạm Minh Hùng | DH51703468 | D17_TH07 |
+| Trần Thị Ngọc Nhật | DH51705101 | D17_TH07 |
+| Nguyễn Thị Bích Nhụy | DH51703915 | D17_TH07 |
+
 ## Source code 
 1. Front End 
 2. Back End
