@@ -25,7 +25,7 @@
  #### Yêu cầu 
   * `GD Extension` trong php.ini
   * `Composer` được cài đặt
-  * 
+  
  #### Các bước khởi tạo
  1. `composer install` để cài đặt các packages cần thiết
  2. Thay đổi `Tên database` trong file `.env`
